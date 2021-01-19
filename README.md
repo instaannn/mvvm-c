@@ -3,6 +3,7 @@
 ✅Coordinator.   
 ✅Builder.   
 ✅Работа с URLSession, JSONDecoder.   
+✅Реализация поиска.   
 ✅API.   
 ✅UserDefaults.   
 
